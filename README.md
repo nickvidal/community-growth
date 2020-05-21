@@ -23,10 +23,10 @@ The future of open source very much depends on understanding and promoting healt
 Project Partners would be entities that address similar issues and with whom the CHAOSS project can further collaborate to evolve its metrics and software.
 
 Companies:
-* Bitergia
-* GitLab
-* GitHub
-* Atlassian (Bitbucket)
+* [Bitergia](https://bitergia.com/)
+* [GitLab](https://about.gitlab.com/)
+* [GitHub](https://github.com/)
+* [Atlassian](https://www.atlassian.com/)
 
 Open source projects:
 * Xen: (risk context)
@@ -81,9 +81,9 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 
 ### Bootstraping
 * Deploy a CRM if none already exists (this gives the team visibility on who is reaching who and measure progress),
-* Identify our target public (e.g. Project Partners, Research Groups, Open Source Projects and Organizations, Large Corporations and Open Source Program Offices, Startups, Small and Midsize Businesses, Educational Institutions, Ambassadors, etc). 
+* Identify our target audience (e.g. Project Partners, Research Groups, Open Source Projects and Organizations, Large Corporations and Open Source Program Offices, Startups, Small and Midsize Businesses, Educational Institutions, Ambassadors, etc). 
 * Design onboarding experience for each audience and types of contributions/engagement desired.
-* Start populating potential contacts (by target public, by demographics, by priority, etc),
+* Start populating potential contacts (by target audience, by demographics, by priority, etc),
 * Reach out to these contacts and follow-up (inviting them to the WG meetings is fine, but progress will mostly be made by direct one-to-one conversations),
 * As the number of partners, affiliates, and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
 * Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite partners, affiliates, and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
@@ -93,16 +93,16 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 ### Affiliates Program
 * Reach out to Open Source Projects and Organizations, offering to help them better understand and evolve their communities.
 * Ask for referrals of individuals who would be interested in joining this initiative (both staff and community members).
-* Provide a comprehensive training of CHAOSS metrics and software, and help them generate their first reports, preferably through a web interface (like cauldron.io or ),
-* Once correctly configured, each project will be able to generate automated reports,
-* Manual reports with a more detailed analysis can also be created periodically by this group of individuals.
-* If they decide to make this report public and publish on their project's blog, this can attract more people within the community interested in joining the initiative.
+* Provide a comprehensive training of CHAOSS metrics and software, and help them generate their first reports, preferably through a web interface (like [cauldron.io](https://cauldron.io/)),
+* Once correctly configured, each project will be able to generate reports automatically,
+* Manual reports with a more detailed analysis can also be created periodically by this group.
+* The project can decide to make this report public and publish on their blog. This can attract more people within the community interested in joining the initiative.
 * The initial group of individuals can work along with the new group, generating a virtuous cycle of mentorship.
 * The CHAOSS project helps these groups creating these first reports (until they learn to fish on their own), and subsequent reports may be created independently.
 * Besides the reports, the CHAOSS project may start receiving back other contributions from these projects, like ideas for new metrics, or pull requests for new functionalities or integrations.
 * Organizations get invited to become affiliates, and individuals get invited to become ambassadors.
 * The CHAOSS project can provide a channel for cross-project discussion and collaboration.
-* Suggestion: call these reports "Open Source Community Health and Analytics Report," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
+* Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
 
 ### Internatinal Expansion
 
