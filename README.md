@@ -29,14 +29,14 @@ Companies:
 * [Atlassian](https://www.atlassian.com/)
 
 Open source projects:
-* Xen: (risk context)
-* Zephyr: (risk context)
-* ELISA: (risk context)
-* ACT: (risk context) 
-* CII (risk standard)
-* OpenChain (risk standard)
-* SPDX (risk standard; Pedigree, provenance)
-* ClearlyDefined
+* [Xen](https://xenproject.org/)
+* [Zephyr](https://www.zephyrproject.org/)
+* [ELISA](https://elisa.tech/)
+* [ACT](https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/) 
+* [Core Infrastructure Initiative](https://www.coreinfrastructure.org/)
+* [OpenChain](https://www.openchainproject.org/)
+* [SPDX](https://spdx.dev/)
+* [ClearlyDefined](https://clearlydefined.io/?sort=releaseDate&sortDesc=true)
 
 Research groups:
 * University of Missouri,
@@ -52,12 +52,12 @@ For the Affiliates Program, the focus would be on building a network of three ty
 Open Source Projects and Organizations would benefit tremendously from joining the CHAOSS Affiliates Program, so that they can better understand and evolve their communities. How can the CHAOSS project help these communities and also learn from them?
 
 Some examples of organizations would be:
-* Apache Software Foundation,
-* Eclipse Foundation,
-* OpenJS Foundation,
-* Python Software Foundation,
-* Mozilla Foundation,
-* Drupal Association: they have recently published their values and principles, and they are developing a unique contribution credit system for code commits, documentation edits, event organization, mentorship and sponsoring.
+* [Apache Software Foundation](https://www.apache.org/foundation/),
+* [Eclipse Foundation](https://www.eclipse.org/org/foundation/),
+* [OpenJS Foundation](https://openjsf.org/),
+* [Python Software Foundation](https://www.python.org/psf/),
+* [Mozilla Foundation](https://foundation.mozilla.org/en/),
+* [Drupal Association](https://www.drupal.org/association): they have recently published their values and principles, and they are developing a unique contribution credit system for code commits, documentation edits, event organization, mentorship and sponsoring.
 
 #### Corporations
 
@@ -67,11 +67,11 @@ Recently, many Corporations are working on establishing their Open Source Progra
 
 This represents an opportunity for the CHAOSS project to help and learn: help them by providing guidance on how to build healthy open source communities, and learn by studying their successful experiences.
 
-It’s worth mentioning the Linux Foundation's TODO Group, which brings together companies to share best practices, tools, and other ways to run healthy open source projects and programs.
+It’s worth mentioning the Linux Foundation's [TODO Group](https://todogroup.org/), which brings together companies to share best practices, tools, and other ways to run healthy open source projects and programs.
 
 #### Educational Institutions
 
-Traditional Educational Institutions are evolving and incorporating more practical subjects into their curriculum. With open source becoming mainstream, we'll likely see more courses and disciplines covering this important topic. One example is the Open Source Technology Management program from Brandeis University. They've partnered with the OSI to launch a specialization in open source, and hopefully this type of program will be adopted by other educational institutions. Having these institutions joining as an affiliate would help the CHAOSS project to reach students and professionals who want to learn more about open source and communities. 
+Traditional Educational Institutions are evolving and incorporating more practical subjects into their curriculum. With open source becoming mainstream, we'll likely see more courses and disciplines covering this important topic. One example is the [Open Source Technology Management](https://gpsonline.brandeis.edu/index-ostm.html) program from Brandeis University. They've partnered with the OSI to launch a specialization in open source, and hopefully this type of program will be adopted by other educational institutions. Having these institutions joining as an affiliate would help the CHAOSS project to reach students and professionals who want to learn more about open source and communities. 
 
 ### Ambassadors
 
