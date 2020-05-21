@@ -13,20 +13,24 @@ The future of open source very much depends on understanding and promoting healt
 ## Plan
 * establish stronger ties with project partners,
 * build an affiliates and ambassadors program,
-* further expande the CHAOSS community internationally,
+* further expand the CHAOSS community internationally,
 * promote "satellite" events and activities.
 
 ## Audience
 
+* Project Partners
+  * Open source projects
+  * Corporations
+  * Research groups
+* Affiliates
+  * Open source projects
+  * Corporations
+  * Educational institutions
+* Ambassadors
+
 ### Project Partners
 
 Project Partners would be entities that address similar issues and with whom the CHAOSS project can further collaborate to evolve its metrics and software.
-
-Companies:
-* [Bitergia](https://bitergia.com/)
-* [GitLab](https://about.gitlab.com/)
-* [GitHub](https://github.com/)
-* [Atlassian](https://www.atlassian.com/)
 
 Open source projects:
 * [Xen](https://xenproject.org/)
@@ -38,12 +42,20 @@ Open source projects:
 * [SPDX](https://spdx.dev/)
 * [ClearlyDefined](https://clearlydefined.io/?sort=releaseDate&sortDesc=true)
 
+Corporations:
+* [Bitergia](https://bitergia.com/)
+* [GitLab](https://about.gitlab.com/)
+* [GitHub](https://github.com/)
+* [Atlassian](https://www.atlassian.com/)
+
 Research groups:
 * University of Missouri,
 * University of Nebraska,
 * University of Victoria.
 
 ### Affiliates
+
+Affiliates would be entities that primarily benefit from the work developed by the CHAOSS project.
 
 For the Affiliates Program, the focus would be on building a network of three types of entities: Open Source Projects, Corporations, and Educational Institutions.
 
