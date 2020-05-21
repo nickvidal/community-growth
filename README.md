@@ -100,7 +100,6 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * As the number of partners, affiliates, and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
 * Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite partners, affiliates, and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
 * As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Annual Reports, etc.
-* Expand the events page to allow the addition of satellite events and activities by partners, affiliates, and ambassadors.
 
 ### Affiliates Program
 * Reach out to Open Source Projects and Organizations, offering to help them better understand and evolve their communities.
@@ -116,13 +115,17 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * The CHAOSS project can provide a channel for cross-project discussion and collaboration.
 * Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
 
-### Internatinal Expansion
+### International Expansion
 
-As the CHAOSS community grows, it’s important to expand the project internationally. One organization that is progressing well on this regard is the OpenChain project, whose specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
+* Learn from the OpenChain project, whose specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
+* Work with Affiliates and Ambassadors to create CHAOSS publications in new languages.
+* Work with Affiliates and Ambassadors to organize events (see the Events page below).
 
 ### Events
 
-Grow CHAOSScon as the main event while promoting “satellite” events and activities worldwide. In the future, with the assistance from CHAOSS Affiliates and Ambassadors, we may have “CHAOSScamps” happening within open source organizations, companies, and universities from around the world, helping to nourish better and healthier communities everywhere.
+* Grow CHAOSScon as the main event while promoting “satellite” events and activities worldwide.
+* With the assistance from CHAOSS Affiliates and Ambassadors, promote “CHAOSScamps” at open source organizations, companies, and universities worlwide.
+* Expand the events page to allow the addition of satellite events and activities by partners, affiliates, and ambassadors.
 
 
 ## KPIs & Metrics
