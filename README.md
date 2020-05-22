@@ -8,6 +8,7 @@ The future of open source very much depends on understanding and promoting healt
 
 ## Goals
 * To grow the CHAOSS project and its community,
+* To increase the use of metrics and content created by the CHAOSS community,
 * To have an increasing impact on the health of open source communities worldwide.
 
 ## Plan
