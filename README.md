@@ -84,7 +84,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 ### Activities
 
 * Deploy a CRM if none already exists (this gives the team visibility on who is reaching who and measure progress),
-* Identify our target public and start populating potential contacts (by target public, by demographics, by priority, etc),
+* Identify our target public and start populating potential contacts,
 * Design onboarding experience for each audience and types of contributions/engagement desired.
 * Reach out to Open Source Projects and Organizations, offering to help them better understand and evolve their communities.
 * Ask for referrals of individuals who would be interested in joining this initiative (both staff and community members).
