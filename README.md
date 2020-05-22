@@ -7,14 +7,14 @@ This document outlines a proposal to grow the CHAOSS community. [CHAOSS](https:/
 The future of open source very much depends on understanding and promoting healthy communities. In this sense, the CHAOSS project plays a fundamental role, as it addresses many of the common issues faced by open source communities: leadership, governance, ethics, sustainability, burnout, diversity, and inclusiveness. The CHAOSS project helps organizations to effectively measure these issues, offering recommendations and best practices to solve them.
 
 ## Goals
-* to grow the CHAOSS project and its community,
-* to have an increasing impact on the health of open source communities worldwide.
+* To grow the CHAOSS project and its community,
+* To have an increasing impact on the health of open source communities worldwide.
 
 ## Plan
-* [establish stronger ties with project partners](#project-partners),
-* [build an affiliates and ambassadors program](#affiliates-and-ambassadors),
-* [further expand the CHAOSS community internationally](#international-expansion),
-* [promote main event, as well as "satellite" events and activities](#main-event-and-satellite-events).
+* [Establish stronger ties with project partners](#project-partners),
+* [Build an affiliates and ambassadors program](#affiliates-and-ambassadors),
+* [Further expand the CHAOSS community internationally](#international-expansion),
+* [Promote main event, as well as "satellite" events and activities](#main-event-and-satellite-events).
 
 ## Project Partners
 
