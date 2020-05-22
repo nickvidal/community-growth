@@ -106,21 +106,25 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * The CHAOSS project can provide a channel for cross-project discussion and collaboration.
 * Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
 
-> Successful Affiliates/Members Program:
-> * OSI (https://opensource.org/affiliates),
-> * OIN (https://www.openinventionnetwork.com/community-of-licensees/),
-> * Linux Foundation (https://www.linuxfoundation.org/membership/members/),
-> * Eclipse Foundation (https://www.eclipse.org/membership/exploreMembership.php).
+|Successful Affiliates/Members Program|
 
-> Successful Ambassadors Program:
-> * CNCF (https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/).
+|OSI (https://opensource.org/affiliates)|
+|----|
+|OIN (https://www.openinventionnetwork.com/community-of-licensees/)|
+|Linux Foundation (https://www.linuxfoundation.org/membership/members/)|
+|Eclipse Foundation (https://www.eclipse.org/membership/exploreMembership.php)|
+
+|Successful Ambassadors Program|
+|----|
+|CNCF (https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/)|
 
 ### International Expansion
 * Work with Affiliates and Ambassadors to create CHAOSS publications in new languages.
 * Work with Affiliates and Ambassadors to organize events (see the Events page below).
 
-> Succesful international expansion
-> * OpenChain: their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
+|Succesful international expansion|
+|----|
+|OpenChain: their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.|
 
 ### Main Event and Satellite Events
 
@@ -128,13 +132,14 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * With the assistance from CHAOSS Affiliates and Ambassadors, promote “CHAOSScamps” at open source organizations, companies, and universities worlwide.
 * Expand the events page to allow the addition of satellite events and activities by partners, affiliates, and ambassadors.
 
-> Successful Main/Satellite events:
-> * Drupal (https://www.drupical.com/),
-> * Wordpress (https://central.wordcamp.org/),
-> * Mozilla (https://community.mozilla.org/events),
-> * Ubuntu (https://wiki.ubuntu.com/ConferenceAppearances),
-> * Python (https://www.python.org/events/python-events),
-> * JavaScript (https://jsconf.com/).
+|Successful Main/Satellite events|
+|----|
+|Drupal (https://www.drupical.com/)|
+|Wordpress (https://central.wordcamp.org/)|
+|Mozilla (https://community.mozilla.org/events)|
+|Ubuntu (https://wiki.ubuntu.com/ConferenceAppearances)|
+|Python (https://www.python.org/events/python-events)|
+|JavaScript (https://jsconf.com/)|
 
 ## KPIs & Metrics
 * Growth of partners, affiliates, and ambassadors,
