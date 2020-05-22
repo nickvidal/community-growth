@@ -97,7 +97,9 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Reach out to these contacts and follow-up (inviting them to the WG meetings is fine, but progress will mostly be made by direct one-to-one conversations),
 * As the number of partners, affiliates, and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
 * Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite partners, affiliates, and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
-* As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Annual Reports, etc.
+* As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Annual Reports, etc. See how [OpenChain](https://www.openchainproject.org/resources) does this.
+
+### Project Partners
 
 ### Affiliates Program
 * Reach out to Open Source Projects and Organizations, offering to help them better understand and evolve their communities.
@@ -113,9 +115,19 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * The CHAOSS project can provide a channel for cross-project discussion and collaboration.
 * Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
 
+Successful Affiliates/Members Program:
+* OSI (https://opensource.org/affiliates),
+* OIN (https://www.openinventionnetwork.com/community-of-licensees/),
+* Linux Foundation (https://www.linuxfoundation.org/membership/members/),
+* Eclipse Foundation (https://www.eclipse.org/membership/exploreMembership.php).
+
+### Ambassadors Program
+
+* Reach out to CNCF (Cloud Native Computing Foundation) and learn about their successful [Ambassadors Program](https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/).
+
 ### International Expansion
 
-* Learn from the OpenChain project, whose specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
+* Reach out to the OpenChain project to learn from them. Their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
 * Work with Affiliates and Ambassadors to create CHAOSS publications in new languages.
 * Work with Affiliates and Ambassadors to organize events (see the Events page below).
 
@@ -125,6 +137,13 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * With the assistance from CHAOSS Affiliates and Ambassadors, promote “CHAOSScamps” at open source organizations, companies, and universities worlwide.
 * Expand the events page to allow the addition of satellite events and activities by partners, affiliates, and ambassadors.
 
+Successful Main/Satellite events:
+* Drupal (https://www.drupical.com/),
+* Wordpress (https://central.wordcamp.org/),
+* Mozilla (https://community.mozilla.org/events),
+* Ubuntu (https://wiki.ubuntu.com/ConferenceAppearances),
+* Python (https://www.python.org/events/python-events),
+* JavaScript (https://jsconf.com/).
 
 ## KPIs & Metrics
 * Growth of partners, affiliates, and ambassadors,
@@ -133,21 +152,3 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Number and quality of contributions,
 * Level of engagement for each contribution (downloads, views, pull requests, etc),
 * Number and quality of events.
-
-## Inspiration
-* Resources/Documentation:
-  * OpenChain (https://www.openchainproject.org/resources)
-* Ambassadors Program:
-  * CNCF (https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/).
-* Affiliates/Members Program:
-  * OSI (https://opensource.org/affiliates),
-  * OIN (https://www.openinventionnetwork.com/community-of-licensees/),
-  * Linux Foundation (https://www.linuxfoundation.org/membership/members/),
-  * Eclipse Foundation (https://www.eclipse.org/membership/exploreMembership.php).
-* Events:
-  * Drupal (https://www.drupical.com/),
-  * Wordpress (https://central.wordcamp.org/),
-  * Mozilla (https://community.mozilla.org/events),
-  * Ubuntu (https://wiki.ubuntu.com/ConferenceAppearances),
-  * Python (https://www.python.org/events/python-events),
-  * JavaScript (https://jsconf.com/).
