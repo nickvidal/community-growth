@@ -18,21 +18,11 @@ The future of open source very much depends on understanding and promoting healt
 
 ## Audience
 
-* Project Partners
-  * Open source projects
-  * Corporations
-  * Research groups
-* Affiliates
-  * Open source projects
-  * Corporations
-  * Educational institutions
-* Ambassadors
-
 ### Project Partners
 
 Project Partners would be entities that address similar issues and with whom the CHAOSS project can further collaborate to evolve its metrics and software.
 
-Open source projects:
+*Open source projects*:
 * [Xen](https://xenproject.org/)
 * [Zephyr](https://www.zephyrproject.org/)
 * [ELISA](https://elisa.tech/)
@@ -42,13 +32,13 @@ Open source projects:
 * [SPDX](https://spdx.dev/)
 * [ClearlyDefined](https://clearlydefined.io/?sort=releaseDate&sortDesc=true)
 
-Corporations:
+*Corporations*:
 * [Bitergia](https://bitergia.com/)
 * [GitLab](https://about.gitlab.com/)
 * [GitHub](https://github.com/)
 * [Atlassian](https://www.atlassian.com/)
 
-Research groups:
+*Research groups*:
 * University of Missouri,
 * University of Nebraska,
 * University of Victoria.
@@ -57,7 +47,7 @@ Research groups:
 
 Affiliates would be entities that primarily benefit from the work developed by the CHAOSS project. What differentiates an affiliate from a project partner is the level of collaboration.
 
-#### Open Source Projects
+*Open Source Projects*
 
 Open Source Projects and Organizations would benefit tremendously from joining the CHAOSS Affiliates Program, so that they can better understand and evolve their communities. How can the CHAOSS project help these communities and also learn from them?
 
@@ -69,7 +59,7 @@ Some examples of organizations would be:
 * [Mozilla Foundation](https://foundation.mozilla.org/en/),
 * [Drupal Association](https://www.drupal.org/association): they have recently published their values and principles, and they are developing a unique contribution credit system for code commits, documentation edits, event organization, mentorship and sponsoring.
 
-#### Corporations
+*Corporations*
 
 These could either be Large Corporations, Startups, or Small and Midsize Businesses.
 
@@ -79,7 +69,7 @@ This represents an opportunity for the CHAOSS project to help and learn: help th
 
 It’s worth mentioning the Linux Foundation's [TODO Group](https://todogroup.org/), which brings together companies to share best practices, tools, and other ways to run healthy open source projects and programs.
 
-#### Educational Institutions
+*Educational Institutions*
 
 Traditional Educational Institutions are evolving and incorporating more practical subjects into their curriculum. With open source becoming mainstream, we'll likely see more courses and disciplines covering this important topic. One example is the [Open Source Technology Management](https://gpsonline.brandeis.edu/index-ostm.html) program from Brandeis University. They've partnered with the OSI to launch a specialization in open source, and hopefully this type of program will be adopted by other educational institutions. Having these institutions joining as an affiliate would help the CHAOSS project to reach students and professionals who want to learn more about open source and communities. 
 
