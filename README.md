@@ -12,8 +12,8 @@ The future of open source very much depends on understanding and promoting healt
 
 ## Plan
 * [establish stronger ties with project partners](#project-partners),
-* [build an affiliates and ambassadors program](#project-partners),
-* [further expand the CHAOSS community internationally](#affiliates-and-ambassadors),
+* [build an affiliates and ambassadors program](#affiliates-and-ambassadors),
+* [further expand the CHAOSS community internationally](#international-expansion),
 * [promote main event, as well as "satellite" events and activities](#main-event-and-satellite-events).
 
 ## Project Partners
