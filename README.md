@@ -22,7 +22,9 @@ The future of open source very much depends on understanding and promoting healt
 
 Project Partners would be entities that address similar issues and with whom the CHAOSS project can further collaborate to evolve its metrics and software.
 
-*Open source projects*:
+*Open source projects*
+
+Example of open source projects who might be good partners (specially for the Risk WG):
 * [Xen](https://xenproject.org/)
 * [Zephyr](https://www.zephyrproject.org/)
 * [ELISA](https://elisa.tech/)
@@ -32,13 +34,17 @@ Project Partners would be entities that address similar issues and with whom the
 * [SPDX](https://spdx.dev/)
 * [ClearlyDefined](https://clearlydefined.io/?sort=releaseDate&sortDesc=true)
 
-*Corporations*:
+Corporations
+
+Example of corporations:
 * [Bitergia](https://bitergia.com/)
 * [GitLab](https://about.gitlab.com/)
 * [GitHub](https://github.com/)
 * [Atlassian](https://www.atlassian.com/)
 
-*Research groups*:
+*Research groups*
+
+Current research groups that have a close relationship with the CHAOSS project:
 * University of Missouri,
 * University of Nebraska,
 * University of Victoria.
@@ -87,7 +93,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Reach out to these contacts and follow-up (inviting them to the WG meetings is fine, but progress will mostly be made by direct one-to-one conversations),
 * As the number of partners, affiliates, and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
 * Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite partners, affiliates, and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
-* As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Annual Reports, etc. See how [OpenChain](https://www.openchainproject.org/resources) does this.
+* As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Annual Reports, etc.
 
 ### Project Partners
 * Each project partner will require a different strategy.
@@ -115,7 +121,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 
 |Successful Ambassadors Program|
 |----|
-|CNCF (https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/)|
+|CNCF ([Case Study](https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/))|
 
 ### International Expansion
 * Work with Affiliates and Ambassadors to create CHAOSS publications in new languages.
