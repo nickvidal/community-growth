@@ -55,7 +55,7 @@ Affiliates would be entities that primarily benefit from the work developed by t
 
 *Open Source Projects*
 
-Open Source Projects and Organizations would benefit tremendously from joining the CHAOSS Affiliates Program, so that they can better understand and evolve their communities. How can the CHAOSS project help these communities and also learn from them?
+Open Source Projects and Organizations would benefit tremendously from joining the CHAOSS Affiliates Program so that they can better understand and evolve their communities. How can the CHAOSS project help these communities and also learn from them?
 
 Some examples of organizations would be:
 * [Apache Software Foundation](https://www.apache.org/foundation/),
@@ -63,7 +63,7 @@ Some examples of organizations would be:
 * [OpenJS Foundation](https://openjsf.org/),
 * [Python Software Foundation](https://www.python.org/psf/),
 * [Mozilla Foundation](https://foundation.mozilla.org/en/),
-* [Drupal Association](https://www.drupal.org/association): they have recently published their values and principles, and they are developing a unique contribution credit system for code commits, documentation edits, event organization, mentorship and sponsoring.
+* [Drupal Association](https://www.drupal.org/association).
 
 *Corporations*
 
