@@ -107,9 +107,8 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
 
 |Successful Affiliates/Members Program|
-
-|OSI (https://opensource.org/affiliates)|
 |----|
+|OSI (https://opensource.org/affiliates)|
 |OIN (https://www.openinventionnetwork.com/community-of-licensees/)|
 |Linux Foundation (https://www.linuxfoundation.org/membership/members/)|
 |Eclipse Foundation (https://www.eclipse.org/membership/exploreMembership.php)|
