@@ -129,7 +129,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 
 |Succesful international expansion|
 |----|
-|OpenChain: their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.|
+|OpenChain (https://www.openchainproject.org/): their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.|
 
 ### Main Event and Satellite Events
 
