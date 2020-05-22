@@ -91,13 +91,13 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Provide a comprehensive training of CHAOSS metrics and software, and help them generate their first reports, preferably through a web interface (like [cauldron.io](https://cauldron.io/)),
 * Once correctly configured, each project will be able to generate reports automatically,
 * Manual reports with a more detailed analysis can also be created periodically by this group.
+* Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
 * The project can decide to make this report public and publish on their blog. This can attract more people within the community interested in joining the initiative.
 * The initial group of individuals can work along with the new group, generating a virtuous cycle of mentorship.
 * Besides the reports, the CHAOSS project may start receiving back other contributions from these projects, like ideas for new metrics, or pull requests for new functionalities or integrations.
 * Organizations get invited to become affiliates, and individuals get invited to become ambassadors.
 * As the number of affiliates and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
 * The CHAOSS project can provide a channel for cross-project discussion and collaboration.
-* Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
 * Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite affiliates and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
 * As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Reports, etc.
 * Expand the events page to allow the addition of satellite events and activities by affiliates and ambassadors.
