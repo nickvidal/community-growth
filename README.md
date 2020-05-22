@@ -113,7 +113,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 > * Eclipse Foundation (https://www.eclipse.org/membership/exploreMembership.php).
 
 > Successful Ambassadors Program:
-* CNCF (https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/).
+> * CNCF (https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/).
 
 ### International Expansion
 * Work with Affiliates and Ambassadors to create CHAOSS publications in new languages.
