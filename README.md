@@ -16,9 +16,7 @@ The future of open source very much depends on understanding and promoting healt
 * further expand the CHAOSS community internationally,
 * promote main event, as well as "satellite" events and activities.
 
-## Audience
-
-### Project Partners
+## Project Partners
 
 Project Partners would be entities that address similar issues and with whom the CHAOSS project can further collaborate to evolve its metrics and software.
 
@@ -49,7 +47,7 @@ Current research groups that have a close relationship with the CHAOSS project:
 * University of Nebraska,
 * University of Victoria.
 
-### Affiliates
+## Affiliates and Ambassadors
 
 Affiliates would be entities that primarily benefit from the work developed by the CHAOSS project. What differentiates an affiliate from a project partner is the level of collaboration.
 
@@ -79,26 +77,16 @@ It’s worth mentioning the Linux Foundation's [TODO Group](https://todogroup.or
 
 Traditional Educational Institutions are evolving and incorporating more practical subjects into their curriculum. With open source becoming mainstream, we'll likely see more courses and disciplines covering this important topic. One example is the [Open Source Technology Management](https://gpsonline.brandeis.edu/index-ostm.html) program from Brandeis University. They've partnered with the OSI to launch a specialization in open source, and hopefully this type of program will be adopted by other educational institutions. Having these institutions joining as an affiliate would help the CHAOSS project to reach students and professionals who want to learn more about open source and communities. 
 
-### Ambassadors
+*Ambassadors*
 
 For the Ambassadors Program, the focus would be on inviting individuals to become part of the CHAOSS project. These individuals are key to advancing the CHAOSS project within their organizations and eventually turning these into affiliates. The CHAOSS Ambassadors Program should provide these individuals with a unique opportunity to learn, experience, and connect with peers from around the world with similar interests. 
 
-## Activities
+### Activities
 
-### Bootstraping
 * Deploy a CRM if none already exists (this gives the team visibility on who is reaching who and measure progress),
-* Identify our target audience (e.g. Project Partners, Research Groups, Open Source Projects and Organizations, Large Corporations and Open Source Program Offices, Startups, Small and Midsize Businesses, Educational Institutions, Ambassadors, etc). 
+* Identify our target public
 * Design onboarding experience for each audience and types of contributions/engagement desired.
-* Start populating potential contacts (by target audience, by demographics, by priority, etc),
-* Reach out to these contacts and follow-up (inviting them to the WG meetings is fine, but progress will mostly be made by direct one-to-one conversations),
-* As the number of partners, affiliates, and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
-* Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite partners, affiliates, and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
-* As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Annual Reports, etc.
-
-### Project Partners
-* Each project partner will require a different strategy.
-
-### Affiliates/Ambassadors Program
+* Start populating potential contacts (by target public, by demographics, by priority, etc),
 * Reach out to Open Source Projects and Organizations, offering to help them better understand and evolve their communities.
 * Ask for referrals of individuals who would be interested in joining this initiative (both staff and community members).
 * Provide a comprehensive training of CHAOSS metrics and software, and help them generate their first reports, preferably through a web interface (like [cauldron.io](https://cauldron.io/)),
@@ -106,11 +94,14 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Manual reports with a more detailed analysis can also be created periodically by this group.
 * The project can decide to make this report public and publish on their blog. This can attract more people within the community interested in joining the initiative.
 * The initial group of individuals can work along with the new group, generating a virtuous cycle of mentorship.
-* The CHAOSS project helps these groups with the first reports (until they learn to fish on their own), and subsequent reports may be created independently.
 * Besides the reports, the CHAOSS project may start receiving back other contributions from these projects, like ideas for new metrics, or pull requests for new functionalities or integrations.
 * Organizations get invited to become affiliates, and individuals get invited to become ambassadors.
+* As the number of affiliates and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
 * The CHAOSS project can provide a channel for cross-project discussion and collaboration.
 * Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
+* Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite affiliates and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
+* As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Reports, etc.
+* Expand the events page to allow the addition of satellite events and activities by affiliates and ambassadors.
 
 |Successful Affiliates/Members Program|
 |----|
@@ -123,7 +114,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 |----|
 |CNCF ([Case Study](https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/))|
 
-### International Expansion
+## International Expansion
 * Work with Affiliates and Ambassadors to create CHAOSS publications in new languages.
 * Work with Affiliates and Ambassadors to organize events (see the Events page below).
 
@@ -131,7 +122,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 |----|
 |OpenChain (https://www.openchainproject.org/): their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.|
 
-### Main Event and Satellite Events
+## Main Event and Satellite Events
 
 * Grow CHAOSScon as the main event while promoting “satellite” events and activities worldwide.
 * With the assistance from CHAOSS Affiliates and Ambassadors, promote “CHAOSScamps” at open source organizations, companies, and universities worlwide.
