@@ -90,8 +90,9 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Annual Reports, etc. See how [OpenChain](https://www.openchainproject.org/resources) does this.
 
 ### Project Partners
+* Each project partner will require a different strategy.
 
-### Affiliates Program
+### Affiliates/Ambassadors Program
 * Reach out to Open Source Projects and Organizations, offering to help them better understand and evolve their communities.
 * Ask for referrals of individuals who would be interested in joining this initiative (both staff and community members).
 * Provide a comprehensive training of CHAOSS metrics and software, and help them generate their first reports, preferably through a web interface (like [cauldron.io](https://cauldron.io/)),
@@ -111,15 +112,15 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 > * Linux Foundation (https://www.linuxfoundation.org/membership/members/),
 > * Eclipse Foundation (https://www.eclipse.org/membership/exploreMembership.php).
 
-### Ambassadors Program
-
-* Reach out to CNCF (Cloud Native Computing Foundation) and learn about their successful [Ambassadors Program](https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/).
+> Successful Ambassadors Program:
+* CNCF (https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/).
 
 ### International Expansion
-
-* Reach out to the OpenChain project to learn from them. Their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
 * Work with Affiliates and Ambassadors to create CHAOSS publications in new languages.
 * Work with Affiliates and Ambassadors to organize events (see the Events page below).
+
+> Succesful international expansion
+> * OpenChain: their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
 
 ### Main Event and Satellite Events
 
