@@ -14,7 +14,7 @@ The future of open source very much depends on understanding and promoting healt
 * establish stronger ties with project partners,
 * build an affiliates and ambassadors program,
 * further expand the CHAOSS community internationally,
-* promote "satellite" events and activities.
+* promote main event, as well as "satellite" events and activities.
 
 ## Audience
 
@@ -55,9 +55,7 @@ Research groups:
 
 ### Affiliates
 
-Affiliates would be entities that primarily benefit from the work developed by the CHAOSS project.
-
-For the Affiliates Program, the focus would be on building a network of three types of entities: Open Source Projects, Corporations, and Educational Institutions.
+Affiliates would be entities that primarily benefit from the work developed by the CHAOSS project. What differentiates an affiliate from a project partner is the level of collaboration.
 
 #### Open Source Projects
 
@@ -109,7 +107,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Manual reports with a more detailed analysis can also be created periodically by this group.
 * The project can decide to make this report public and publish on their blog. This can attract more people within the community interested in joining the initiative.
 * The initial group of individuals can work along with the new group, generating a virtuous cycle of mentorship.
-* The CHAOSS project helps these groups creating these first reports (until they learn to fish on their own), and subsequent reports may be created independently.
+* The CHAOSS project helps these groups with the first reports (until they learn to fish on their own), and subsequent reports may be created independently.
 * Besides the reports, the CHAOSS project may start receiving back other contributions from these projects, like ideas for new metrics, or pull requests for new functionalities or integrations.
 * Organizations get invited to become affiliates, and individuals get invited to become ambassadors.
 * The CHAOSS project can provide a channel for cross-project discussion and collaboration.
@@ -121,7 +119,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Work with Affiliates and Ambassadors to create CHAOSS publications in new languages.
 * Work with Affiliates and Ambassadors to organize events (see the Events page below).
 
-### Events
+### Main Event and Satellite Events
 
 * Grow CHAOSScon as the main event while promoting “satellite” events and activities worldwide.
 * With the assistance from CHAOSS Affiliates and Ambassadors, promote “CHAOSScamps” at open source organizations, companies, and universities worlwide.
