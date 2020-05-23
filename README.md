@@ -72,7 +72,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Once correctly configured, each project will be able to generate reports automatically,
 * Manual reports with a more detailed analysis can also be created periodically by this group.
 * Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
-* The project can decide to make these reports public and publish on their blog. This can attract more people within the community interested in joining the initiative.
+* Each project can decide to make these reports public and publish on their blogs, newsletters, social media, and other channels. This gives visibility to the CHAOSS metrics and can attract more people within their community (or adjacent communities) interested in joining.
 * The CHAOSS project may receive other types of contributions from these projects other than reports, like ideas for new metrics, or pull requests for new functionalities or integrations.
 * Organizations get invited to become affiliates, and individuals get invited to become ambassadors.
 * As the number of affiliates and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
