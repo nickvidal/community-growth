@@ -93,7 +93,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 |CNCF ([Case Study](https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/))|
 
 ## International Expansion
-* Constantly assess the global distribution of the community (through website geolocation data, mailing list email addresses, surveys, etc), always respecting privacy.
+* Constantly assess the global distribution of the community (through website geolocation data, mailing list email addresses, social media profiles, surveys, etc), always respecting privacy.
 * Make a conscious effort to expand the CHAOSS community internationally by reaching out to new contacts.
 * Create incentives for the publication of CHAOSS content in languages other than English.
 * Give special focus to the Metrics specification, which should be available in a wide variety of languages.
