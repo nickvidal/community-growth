@@ -27,7 +27,7 @@ Example of open source projects and organizations who might be good partners: [O
 
 Corporations
 
-Example of corporations who can adopt metrics created by the CHAOSS community: [Bitergia](https://bitergia.com/), [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/), [Atlassian](https://www.atlassian.com/).
+Example of corporations who can adopt and disseminate metrics created by the CHAOSS community and have a major impact on thousands of open source projects worldwide: [Bitergia](https://bitergia.com/), [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/), [Atlassian](https://www.atlassian.com/).
 
 *Research groups*
 
