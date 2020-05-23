@@ -99,6 +99,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Give special focus to the Metrics specification, which should be available in a wide variety of languages.
 * Content in a new language attracts a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
 * Ideally the software should also be multilingual. Provide users the option to select a language and locale.
+* For GrimoireLab this is straighforward, consisting in making available [dashboards](https://github.com/chaoss/grimoirelab-sigils) in different languages.
 * Work with Affiliates and Ambassadors to organize events worldwide and produce local content (see the Events page below).
 
 |Succesful international expansion|
