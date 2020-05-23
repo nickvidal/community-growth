@@ -23,11 +23,11 @@ Project Partners would be entities that address similar issues and with whom the
 
 *Open source projects*
 
-Example of open source projects who might be good partners (specially for the Risk WG): [Xen](https://xenproject.org/), [Zephyr](https://www.zephyrproject.org/), [ELISA](https://elisa.tech/), [ACT](https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/), [Core Infrastructure Initiative](https://www.coreinfrastructure.org/), [OpenChain](https://www.openchainproject.org/), [SPDX](https://spdx.dev/), [ClearlyDefined](https://clearlydefined.io/)
+Example of open source projects who might be good partners (specially for the Risk WG): [Xen](https://xenproject.org/), [Zephyr](https://www.zephyrproject.org/), [ELISA](https://elisa.tech/), [ACT](https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/), [Core Infrastructure Initiative](https://www.coreinfrastructure.org/), [OpenChain](https://www.openchainproject.org/), [SPDX](https://spdx.dev/), [ClearlyDefined](https://clearlydefined.io/).
 
 Corporations
 
-Example of corporations: [Bitergia](https://bitergia.com/), [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/), [Atlassian](https://www.atlassian.com/)
+Example of corporations: [Bitergia](https://bitergia.com/), [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/), [Atlassian](https://www.atlassian.com/).
 
 *Research groups*
 
@@ -72,9 +72,8 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Once correctly configured, each project will be able to generate reports automatically,
 * Manual reports with a more detailed analysis can also be created periodically by this group.
 * Suggestion: call these reports "Open Source Community Health and Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
-* The project can decide to make this report public and publish on their blog. This can attract more people within the community interested in joining the initiative.
-* The initial group of individuals can work along with the new group, generating a virtuous cycle of mentorship.
-* Besides the reports, the CHAOSS project may start receiving back other contributions from these projects, like ideas for new metrics, or pull requests for new functionalities or integrations.
+* The project can decide to make these reports public and publish on their blog. This can attract more people within the community interested in joining the initiative.
+* The CHAOSS project may receive other types of contributions from these projects other than reports, like ideas for new metrics, or pull requests for new functionalities or integrations.
 * Organizations get invited to become affiliates, and individuals get invited to become ambassadors.
 * As the number of affiliates and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
 * The CHAOSS project can provide a channel for cross-project discussion and collaboration.
