@@ -79,7 +79,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * The CHAOSS project can provide channels for cross-project discussion and collaboration.
 * Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite affiliates and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
 * As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Reports, etc.
-* Allow ffiliates and ambassadors to add satellite events and activities to the CHAOSS website.
+* Allow affiliates and ambassadors to add satellite events and activities to the CHAOSS website (see the Events section below).
 
 |Successful Affiliates/Members Program|
 |----|
@@ -100,7 +100,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Content in a new language attracts a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
 * Ideally the software should also be multilingual. Provide users the option to select a language and locale.
 * For GrimoireLab this is straighforward, consisting in making available [dashboards](https://github.com/chaoss/grimoirelab-sigils) in different languages.
-* Work with Affiliates and Ambassadors to organize events worldwide and produce local content (see the Events page below).
+* Work with Affiliates and Ambassadors to organize events worldwide and produce local content (see the Events section below).
 
 |Succesful international expansion|
 |----|
