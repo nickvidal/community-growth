@@ -76,10 +76,10 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * The CHAOSS project may receive other types of contributions from these projects other than reports, like ideas for new metrics, or pull requests for new functionalities or integrations.
 * Organizations get invited to become affiliates, and individuals get invited to become ambassadors.
 * As the number of affiliates and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
-* The CHAOSS project can provide a [channel](https://docs.google.com/document/d/1HABrco2NGhchPLHK_PvKRsFHEU0fMfpnn0Axacv-OX8/edit) for cross-project discussion and collaboration.
+* The CHAOSS project can provide channels for cross-project discussion and collaboration.
 * Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite affiliates and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
 * As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Reports, etc.
-* Expand the events page to allow the addition of satellite events and activities by affiliates and ambassadors.
+* Allow ffiliates and ambassadors to add satellite events and activities to the CHAOSS website.
 
 |Successful Affiliates/Members Program|
 |----|
@@ -93,7 +93,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 |CNCF ([Case Study](https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/))|
 
 ## International Expansion
-* Constantly assess the global distribution of the community (website geolocation data, mailing list email addresses, surveys), always respecting privacy.
+* Constantly assess the global distribution of the community (through website geolocation data, mailing list email addresses, surveys, etc), always respecting privacy.
 * Make a conscious effort to expand the CHAOSS community internationally by reaching out to new contacts.
 * Create incentives for the publication of CHAOSS content in languages other than English.
 * Give special focus to the Metrics specification, which should be available in a wide variety of languages.
