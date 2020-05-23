@@ -23,30 +23,15 @@ Project Partners would be entities that address similar issues and with whom the
 
 *Open source projects*
 
-Example of open source projects who might be good partners (specially for the Risk WG):
-* [Xen](https://xenproject.org/)
-* [Zephyr](https://www.zephyrproject.org/)
-* [ELISA](https://elisa.tech/)
-* [ACT](https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/) 
-* [Core Infrastructure Initiative](https://www.coreinfrastructure.org/)
-* [OpenChain](https://www.openchainproject.org/)
-* [SPDX](https://spdx.dev/)
-* [ClearlyDefined](https://clearlydefined.io/?sort=releaseDate&sortDesc=true)
+Example of open source projects who might be good partners (specially for the Risk WG): [Xen](https://xenproject.org/), [Zephyr](https://www.zephyrproject.org/), [ELISA](https://elisa.tech/), [ACT](https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/), [Core Infrastructure Initiative](https://www.coreinfrastructure.org/), [OpenChain](https://www.openchainproject.org/), [SPDX](https://spdx.dev/), [ClearlyDefined](https://clearlydefined.io/)
 
 Corporations
 
-Example of corporations:
-* [Bitergia](https://bitergia.com/)
-* [GitLab](https://about.gitlab.com/)
-* [GitHub](https://github.com/)
-* [Atlassian](https://www.atlassian.com/)
+Example of corporations: [Bitergia](https://bitergia.com/), [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/), [Atlassian](https://www.atlassian.com/)
 
 *Research groups*
 
-Current research groups that have a close relationship with the CHAOSS project:
-* University of Missouri,
-* University of Nebraska,
-* University of Victoria.
+Current research groups that have a close relationship with the CHAOSS project: University of Missouri, University of Nebraska, University of Victoria.
 
 ## Affiliates and Ambassadors
 
@@ -56,13 +41,7 @@ Affiliates would be entities that primarily benefit from the work developed by t
 
 Open Source Projects and Organizations would benefit tremendously from joining the CHAOSS Affiliates Program so that they can better understand and evolve their communities. How can the CHAOSS project help these communities and also learn from them?
 
-Some examples of organizations would be:
-* [Apache Software Foundation](https://www.apache.org/foundation/),
-* [Eclipse Foundation](https://www.eclipse.org/org/foundation/),
-* [OpenJS Foundation](https://openjsf.org/),
-* [Python Software Foundation](https://www.python.org/psf/),
-* [Mozilla Foundation](https://foundation.mozilla.org/en/),
-* [Drupal Association](https://www.drupal.org/association).
+Some examples of organizations would be: [Apache Software Foundation](https://www.apache.org/foundation/), [Eclipse Foundation](https://www.eclipse.org/org/foundation/), [OpenJS Foundation](https://openjsf.org/), [Python Software Foundation](https://www.python.org/psf/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Drupal Association](https://www.drupal.org/association).
 
 *Corporations*
 
