@@ -109,7 +109,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 
 * Grow CHAOSScon as the main event while promoting “satellite” events and activities worldwide.
 * With the assistance from CHAOSS Affiliates and Ambassadors, promote “CHAOSScamps” at open source organizations, companies, and universities worlwide.
-* Expand the events page to allow the addition of satellite events and activities by partners, affiliates, and ambassadors.
+* Allow partners, affiliates, and ambassadors to add satellite events and activities to the CHAOSS website.
 * Provide guidelines to local organizers on how to have a successful event, including: finding a venue, setting a date, seeking sponsors, managing budget and timeline, selecting speakers, marketing the event, handling catering and audio/video equipment, etc.
 * Make sure these events have a code of conduct and promote diversity and inclusion.
 
