@@ -21,7 +21,7 @@ The future of open source very much depends on understanding and promoting healt
 
 Project Partners would be entities that address similar issues and with whom the CHAOSS project can further collaborate to evolve its metrics and software.
 
-*Open source projects*
+*Open Source Projects and Organizations*
 
 Example of open source projects who might be good partners (specially for the Evolution WG and Risk WG): [Apache Kibble](https://kibble.apache.org/), [Agile Alliance](https://www.agilealliance.org/), [Project Management Institute](https://www.pmi.org/), [Xen](https://xenproject.org/), [Zephyr](https://www.zephyrproject.org/), [ELISA](https://elisa.tech/), [ACT](https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/), [Core Infrastructure Initiative](https://www.coreinfrastructure.org/), [OpenChain](https://www.openchainproject.org/), [SPDX](https://spdx.dev/), [ClearlyDefined](https://clearlydefined.io/).
 
@@ -37,7 +37,7 @@ Current research groups that have a close relationship with the CHAOSS project: 
 
 Affiliates would be entities that primarily benefit from the work developed by the CHAOSS project. What differentiates an affiliate from a project partner is the type and level of collaboration.
 
-*Open Source Projects*
+*Open Source Projects and Organizations*
 
 Open Source Projects and Organizations would benefit tremendously from joining the CHAOSS Affiliates Program so that they can better understand and evolve their communities. How can the CHAOSS project help these communities and also learn from them?
 
