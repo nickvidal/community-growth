@@ -23,7 +23,7 @@ Project Partners would be entities that address similar issues and with whom the
 
 *Open source projects*
 
-Example of open source projects who might be good partners (specially for the Evolution WG and Risk WG): [Apache Kibble](https://kibble.apache.org/), [Agile Alliance](https://www.agilealliance.org/), [Project Management Institute][https://www.pmi.org/], [Xen](https://xenproject.org/), [Zephyr](https://www.zephyrproject.org/), [ELISA](https://elisa.tech/), [ACT](https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/), [Core Infrastructure Initiative](https://www.coreinfrastructure.org/), [OpenChain](https://www.openchainproject.org/), [SPDX](https://spdx.dev/), [ClearlyDefined](https://clearlydefined.io/).
+Example of open source projects who might be good partners (specially for the Evolution WG and Risk WG): [Apache Kibble](https://kibble.apache.org/), [Agile Alliance](https://www.agilealliance.org/), [Project Management Institute](https://www.pmi.org/), [Xen](https://xenproject.org/), [Zephyr](https://www.zephyrproject.org/), [ELISA](https://elisa.tech/), [ACT](https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/), [Core Infrastructure Initiative](https://www.coreinfrastructure.org/), [OpenChain](https://www.openchainproject.org/), [SPDX](https://spdx.dev/), [ClearlyDefined](https://clearlydefined.io/).
 
 Corporations
 
