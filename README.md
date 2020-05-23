@@ -35,7 +35,7 @@ Current research groups that have a close relationship with the CHAOSS project: 
 
 ## Affiliates and Ambassadors
 
-Affiliates would be entities that primarily benefit from the work developed by the CHAOSS project. What differentiates an affiliate from a project partner is the level of collaboration.
+Affiliates would be entities that primarily benefit from the work developed by the CHAOSS project. What differentiates an affiliate from a project partner is the type and level of collaboration.
 
 *Open Source Projects*
 
