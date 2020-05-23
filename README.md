@@ -93,12 +93,17 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 |CNCF ([Case Study](https://www.cncf.io/blog/2019/07/18/cncf-meetups-are-now-happening-in-more-than-200-locations/))|
 
 ## International Expansion
-* Work with Affiliates and Ambassadors to create CHAOSS publications in new languages.
-* Work with Affiliates and Ambassadors to organize events (see the Events page below).
+* Constantly assess the global distribution of the community (website geolocation data, mailing list email addresses, surveys), respecting privacy.
+* Make a conscious effort to expand the CHAOSS community internationally by reaching out to new contacts.
+* Create incentives for the publication of CHAOSS content in languages other than English.
+* Give special focus to the Metrics specification, which should be available in a wide variety of languages.
+* Content in a new language attracts a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
+* Ideally the software should also be multilingual. Provide users the option to select a language and locale.
+* Work with Affiliates and Ambassadors to organize events worldwide (see the Events page below).
 
 |Succesful international expansion|
 |----|
-|OpenChain (https://www.openchainproject.org/): their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish. These translations attract a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.|
+|OpenChain (https://www.openchainproject.org/): their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish.|
 
 ## Main Event and Satellite Events
 
