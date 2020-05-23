@@ -27,7 +27,7 @@ Example of open source projects who might be good partners (specially for the Ri
 
 Corporations
 
-Example of corporations: [Bitergia](https://bitergia.com/), [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/), [Atlassian](https://www.atlassian.com/).
+Example of corporations who can adopt metrics created by the CHAOSS community: [Bitergia](https://bitergia.com/), [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/), [Atlassian](https://www.atlassian.com/).
 
 *Research groups*
 
@@ -111,7 +111,7 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 * Grow CHAOSScon as the main event while promoting “satellite” events and activities worldwide.
 * With the assistance from CHAOSS Affiliates and Ambassadors, promote “CHAOSScamps” at open source organizations, companies, and universities worlwide.
 * Allow partners, affiliates, and ambassadors to add satellite events and activities to the CHAOSS website.
-* Provide guidelines to local organizers on how to have a successful event, including: finding a venue, setting a date, seeking sponsors, managing budget and timeline, selecting speakers, marketing the event, handling catering and audio/video equipment, etc.
+* Provide guidelines to local organizers on how to produce a successful event, including: finding a venue, setting a date, seeking sponsors, managing budget and timeline, selecting speakers, marketing the event, handling catering and audio/video equipment, etc.
 * Make sure these events have a code of conduct and promote diversity and inclusion.
 
 |Successful Main/Satellite events|
