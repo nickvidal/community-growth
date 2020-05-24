@@ -59,7 +59,7 @@ Traditional Educational Institutions are evolving and incorporating more practic
 
 *Ambassadors*
 
-For the Ambassadors Program, the focus would be on inviting individuals to become part of the CHAOSS project. These individuals are key to advancing the CHAOSS project within their organizations and eventually turning these into affiliates. The CHAOSS Ambassadors Program should provide these individuals with a unique opportunity to learn, experience, and connect with peers from around the world with similar interests. 
+For the Ambassadors Program, the focus would be on inviting individuals to become part of the CHAOSS project. These individuals are key to advancing the CHAOSS project within their organizations and eventually turning these into affiliates. The CHAOSS Ambassadors Program should provide these individuals with a unique opportunity to learn, experience, and connect with peers from around the world with similar interests. Mentees and mentors of programs like Outreachy, Summer of Code, and Season of Docs would also be invited to become CHAOSS Ambassadors.
 
 ### Activities
 
