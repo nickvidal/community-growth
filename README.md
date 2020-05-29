@@ -1,85 +1,25 @@
-# chaoss-community-growth
-
 ## Introduction
 
-This document outlines a proposal to grow the CHAOSS community. [CHAOSS](https://chaoss.community/) is a Linux Foundation project focused on creating analytics and metrics to help define community health.
-
-The future of open source very much depends on understanding and promoting healthy communities. In this sense, the CHAOSS project plays a fundamental role, as it addresses many of the common issues faced by open source communities: leadership, governance, ethics, sustainability, burnout, diversity, and inclusiveness. The CHAOSS project helps organizations to effectively measure these issues, offering recommendations and best practices to solve them.
-
-## Goals
-* To grow the CHAOSS project and its community,
-* To increase the use of metrics and content created by the CHAOSS community,
-* To have an increasing impact on the health of open source communities worldwide.
+This document outlines a strategic plan to grow an open source community.
 
 ## Plan
-* [Establish stronger ties with project partners](#project-partners),
 * [Build an affiliates and ambassadors program](#affiliates-and-ambassadors),
-* [Further expand the CHAOSS community internationally](#international-expansion),
-* [Promote main event, as well as "satellite" events and activities](#main-event-and-satellite-events).
-
-## Project Partners
-
-Project Partners would be entities that address similar issues and with whom the CHAOSS project can further collaborate to evolve its metrics and software.
-
-*Open Source Projects*
-
-Example of open source projects and organizations who might be good partners: [Open Source Diversity](https://opensourcediversity.org/), [Apache Kibble](https://kibble.apache.org/), [Agile Alliance](https://www.agilealliance.org/), [Project Management Institute](https://www.pmi.org/), [OWASP](https://owasp.org/), [Xen](https://xenproject.org/), [Zephyr](https://www.zephyrproject.org/), [ELISA](https://elisa.tech/), [ACT](https://www.linuxfoundation.org/press-release/2018/12/the-linux-foundation-to-launch-new-tooling-project-to-improve-open-source-compliance/), [Core Infrastructure Initiative](https://www.coreinfrastructure.org/), [OpenChain](https://www.openchainproject.org/), [SPDX](https://spdx.dev/), [ClearlyDefined](https://clearlydefined.io/), [Open Source Initiative](https://opensource.org/).
-
-Corporations
-
-Example of corporations who can adopt and disseminate metrics created by the CHAOSS community and have a major impact on thousands of open source projects worldwide: [Bitergia](https://bitergia.com/), [GitLab](https://about.gitlab.com/), [GitHub](https://github.com/), [Atlassian](https://www.atlassian.com/).
-
-*Research groups*
-
-Current research groups that have a close relationship with the CHAOSS project: University of Missouri, University of Nebraska, University of Victoria.
+* [Further expand the community internationally](#international-expansion),
+* [Promote "satellite" events and activities](#satellite-events).
 
 ## Affiliates and Ambassadors
-
-Affiliates would be entities that primarily benefit from the work developed by the CHAOSS project. What differentiates an affiliate from a project partner is the type and level of collaboration.
-
-*Open Source Projects*
-
-Open Source Projects and Organizations would benefit tremendously from joining the CHAOSS Affiliates Program so that they can better understand and evolve their communities. How can the CHAOSS project help these communities and also learn from them?
-
-Some examples of organizations would be: [GNOME Foundation](https://www.gnome.org/foundation/), [KDE e.V.](https://ev.kde.org), [Apache Software Foundation](https://www.apache.org/foundation/), [Eclipse Foundation](https://www.eclipse.org/org/foundation/), [OpenJS Foundation](https://openjsf.org/), [Python Software Foundation](https://www.python.org/psf/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Drupal Association](https://www.drupal.org/association).
-
-*Corporations*
-
-These could either be Large Corporations, Startups, or Small and Midsize Businesses.
-
-Recently, many Corporations are working on establishing their Open Source Program Offices.
-
-This represents an opportunity for the CHAOSS project to help and learn: help them by providing guidance on how to build healthy open source communities, and learn by studying their successful experiences.
-
-It’s worth mentioning the Linux Foundation's [TODO Group](https://todogroup.org/), which brings together companies to share best practices, tools, and other ways to run healthy open source projects and programs.
-
-*Educational Institutions*
-
-Traditional Educational Institutions are evolving and incorporating more practical subjects into their curriculum. With open source becoming mainstream, we'll likely see more courses and disciplines covering this important topic. One example is the [Open Source Technology Management](https://gpsonline.brandeis.edu/index-ostm.html) program from Brandeis University. They've partnered with the OSI to launch a specialization in open source, and hopefully this type of program will be adopted by other educational institutions. Having these institutions joining as an affiliate would help the CHAOSS project to reach students and professionals who want to learn more about open source and communities. 
-
-*Ambassadors*
-
-For the Ambassadors Program, the focus would be on inviting individuals to become part of the CHAOSS project. These individuals are key to advancing the CHAOSS project within their organizations and eventually turning these into affiliates. The CHAOSS Ambassadors Program should provide these individuals with a unique opportunity to learn, experience, and connect with peers from around the world with similar interests. Mentees and mentors of programs like Outreachy, Summer of Code, and Season of Docs would also be invited to become CHAOSS Ambassadors.
-
-### Activities
-
 * Deploy a CRM if none already exists (this gives the team visibility on who is reaching who and measure progress),
-* Identify our target audience and start populating potential contacts,
-* Design onboarding experience for each audience and types of contributions/engagement desired.
-* Reach out to Open Source Projects and Organizations, offering to help them better understand and evolve their communities.
-* Ask for referrals of individuals who would be interested in joining this initiative (both staff and community members).
-* Provide a comprehensive training of CHAOSS metrics and software, and help them generate their first reports, preferably through a web interface (like [cauldron.io](https://cauldron.io/)),
-* Once correctly configured, each project will be able to generate reports automatically,
-* Manual reports with a more detailed analysis can also be created periodically by this group.
-* Suggestion: call these reports "Open Source Community Health Analytics Reports," or OSCHAR for short. At each CHAOSSCon, we organize a special ceremony called OSCHAR Awards, where we recognize the best reports.
-* Each project can decide to make these reports public and publish on their blogs, newsletters, social media, and other channels. This gives visibility to the CHAOSS metrics and can attract more people within their community (or adjacent communities) to join and contribute.
-* The CHAOSS project may receive other types of contributions from these projects other than reports, like ideas for new metrics, or pull requests for new functionalities or integrations.
+* Identify the target audience and start populating potential contacts,
+* Develop a value proposition for each audience,
+* Design onboarding experience for each audience and types of contributions/engagement desired,
+* Reach out to these potential affiliates,
+* Ask for referrals of individuals who would be interested in joining (both staff and community members),
 * Organizations get invited to become affiliates, and individuals get invited to become ambassadors.
-* As the number of affiliates and ambassadors grow, create dedicated pages on the CHAOSS website to formally recognize each,
-* The CHAOSS project can provide channels for cross-project discussion and collaboration.
-* Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the CHAOSS Blog, invite affiliates and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
-* As the community matures, publish CHAOSS material on different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Reports, etc.
-* Allow affiliates and ambassadors to add satellite events and activities to the CHAOSS website (see the Events section below).
+* As the number of affiliates and ambassadors grow, create dedicated pages on the website to formally recognize each,
+* Provide channels for cross-project discussion and collaboration.
+* Create a strategy for each marketing/contribution channel (Blog, Newsletter, Podcast, Social Media, Code Repository, etc). For example, for the Blog, invite affiliates and ambassadors for guest posts. Also publish guest posts for them. This is a great way to reach a new audience to expand our network and also to let them tap into ours.
+* As the community matures, publish resources in different formats, languages, and tailored for different audiences. Examples: Specification, Documentation, One pagers, Infographics, Checklists, White papers, Scientific Papers and Articles, eBooks, Case studies, Reference Training Programs, User Manuals, Developer Manuals, Handbooks, Reports, etc.
+* Allow affiliates and ambassadors to add satellite events and activities to the website (see the Events section below).
 
 |Successful Affiliates/Members Program|
 |----|
@@ -94,23 +34,21 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 
 ## International Expansion
 * Constantly assess the global distribution of the community (through website geolocation data, mailing list email addresses, social media profiles, surveys, etc), always respecting privacy.
-* Make a conscious effort to expand the CHAOSS community internationally by reaching out to new contacts.
-* Create incentives for the publication of CHAOSS content in languages other than English.
-* Give special focus to the Metrics specification, which should be available in a wide variety of languages.
+* Make a conscious effort to expand the community internationally by reaching out to new contacts.
+* Create incentives for the publication of content in languages other than English.
 * Content in a new language attracts a more diverse set of individuals and organizations to the project, who in return contribute back to the project making it even better.
 * Ideally the software should also be multilingual. Provide users the option to select a language and locale.
-* For GrimoireLab this is straighforward, consisting in making available [dashboards](https://github.com/chaoss/grimoirelab-sigils) in different languages.
 * Work with Affiliates and Ambassadors to organize events worldwide and produce local content (see the Events section below).
 
 |Succesful international expansion|
 |----|
 |OpenChain (https://www.openchainproject.org/): their specification has been translated into Chinese, German, Italian, Japanese, Korean, Polish, Portuguese, and Spanish.|
 
-## Main Event and Satellite Events
+## Satellite Events
 
-* Grow CHAOSScon as the main event while promoting “satellite” events and activities worldwide.
-* With the assistance from CHAOSS Affiliates and Ambassadors, promote “CHAOSScamps” at open source organizations, companies, and universities worlwide.
-* Allow partners, affiliates, and ambassadors to add satellite events and activities to the CHAOSS website.
+* Grow the main conference while promoting “satellite” events and activities worldwide.
+* With the assistance from Affiliates and Ambassadors, promote these satellite events and activities.
+* Allow affiliates and ambassadors to add satellite events and activities to the website.
 * Provide guidelines to local organizers on how to produce a successful event, including: finding a venue, setting a date, seeking sponsors, managing budget and timeline, selecting speakers, marketing the event, handling catering and audio/video equipment, etc.
 * Make sure these events have a code of conduct and promote diversity and inclusion.
 
@@ -124,8 +62,8 @@ For the Ambassadors Program, the focus would be on inviting individuals to becom
 |JavaScript (https://jsconf.com/)|
 
 ## KPIs & Metrics
-* Growth of partners, affiliates, and ambassadors,
-* Demographics of our contacts,
+* Growth of affiliates and ambassadors,
+* Demographics of affiliates and ambassadors,
 * Frequency of Blog posts and other contributions (focus on establishing a continuous pattern),
 * Number and quality of contributions,
 * Level of engagement for each contribution (downloads, views, pull requests, etc),
