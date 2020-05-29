@@ -12,7 +12,7 @@ This document outlines a strategic plan to grow an open source community.
 * Identify the target audience and start populating potential contacts,
 * Develop a value proposition for each audience,
 * Design onboarding experience for each audience and types of contributions/engagement desired,
-* Reach out to these potential affiliates,
+* Reach out to these potential affiliates and follow up,
 * Ask for referrals of individuals who would be interested in joining (both staff and community members),
 * Organizations get invited to become affiliates, and individuals get invited to become ambassadors.
 * As the number of affiliates and ambassadors grow, create dedicated pages on the website to formally recognize each,
